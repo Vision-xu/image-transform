@@ -1,5 +1,7 @@
 #  测试yuv转png/jpg
 
+# 工具链解压到自己的路径，自行配置
+
 # zlib、libpng、libjpeg动态库编译生成
 
 ```bash
